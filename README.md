@@ -1,6 +1,6 @@
 # How to Edit the JDO Specification
 ## Overview
-The JDO Specification is maintained in OpenOffice format. It consists of 
+The JDO Specification is maintained in Apache OpenOffice format. It consists of 
 a master document JDO_master.odm, a template JDO_spec.ott, and a file 
 for each chapter and appendix.
 
