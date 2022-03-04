@@ -6,7 +6,7 @@ for each chapter and appendix.
 
 The following sections explain each of these document types and how to work with them.
 ## Getting Started
-Download Apache OpenOffice 3.4 from https://www.openoffice.org/download/ 
+Download the latest Apache OpenOffice from https://www.openoffice.org/download/ 
 and then download and install the Template Changer extension 
 https://extensions.services.openoffice.org/project/templatechanger. 
 The template changer is needed if you  make style changes to the template. 
